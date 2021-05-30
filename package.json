@@ -6,7 +6,7 @@
     "url": "https://github.com/738/inko/issues",
     "email": "jydrogen@gmail.com"
   },
-  "main": "inko.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
